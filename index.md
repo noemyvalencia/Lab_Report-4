@@ -8,7 +8,7 @@ To edit and fix the failing tests in lab7. I followed these next steps.
 2. Open new terminal in bash.
 3. Log in to my account by typing `ssh cs15lsp23jb@ieng6.ucsd.edu`
 
-![Image]([Screenshot 2023-05-21 at 12.11.24 PM.png](https://github.com/noemyvalencia/Lab_Report-4/blob/main/Screenshot%202023-05-21%20at%2012.11.24%20PM.png))
+![Image](Screenshot 2023-05-21 at 12.11.24 PM.png)
 ---
 
 ## Step 2: Clone fork of repository: 
