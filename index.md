@@ -26,19 +26,19 @@ To edit and fix the failing tests in lab7. I followed these next steps.
 
 ## Step 4: Edit code.
 1. Type 'vim ListExamples.java' into terminal to edit the code.
-3. Type '/index1' and press '<enter>'.
-4. Press '<n>' 9 times until I get to the last index1.
-5. Press '<l>' 5 times until cursor is on top of 1.
-6. Type '<x>'.
-7. Type letter '<i>' and type 2. 
-8. Press '<esc>.
-9. Type ':wq' and press '<enter>'.
+3. Type '/index1' and press <enter>.
+4. Press <n> 9 times until I get to the last index1.
+5. Press <l> 5 times until cursor is on top of 1.
+6. Type <x>.
+7. Type letter <i> and type 2. 
+8. Press <esc>.
+9. Type ':wq' and press <enter>.
 
 ![Image](Screenshot 2023-05-21 at 12.54.06 PM.png)
 ---
 
 ## Step 5: Run tests again.
-1. Press '<up><up><enter>' to run tests again.
+1. Press <up><up><enter> to run tests again.
 
 ![Image](Screenshot 2023-05-21 at 12.55.46 PM.png)
 ---
