@@ -12,7 +12,7 @@ To edit and fix the failing tests in lab7. I followed these next steps.
 
 ## Step 2: Clone fork of repository: 
 1. Type `git clone git@github.com:noemyvalencia/lab7.git` into terminal.
-![Image](Screenshot 2023-05-21 at 12.14.33 PM.png)
+![Image](Screenshot 2023-06-05 at 12.31.57 PM.png)
 ---
 
 ## Step 3: Run failing tests: 
