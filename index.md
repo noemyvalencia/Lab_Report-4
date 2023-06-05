@@ -42,7 +42,7 @@ To edit and fix the failing tests in lab7. I followed these next steps.
 1. Type `git add ListExamples.java`.
 2. Type `git commit -m "updaded"`.
 3. Type `git push origin main`.
-![Image](Screenshot 2023-05-21 at 10.03.54 PM.png)
+![Image](Screenshot 2023-06-05 at 12.33.08 PM.png)
 ---
 
 And with that, I've made sure that my tests are running and my changes are saved.
